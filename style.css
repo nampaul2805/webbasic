@@ -1,0 +1,99 @@
+.product-img{
+    margin-bottom:20px;
+    margin-top: 50px;
+    width:300px;
+    height:300px;
+}
+.product-name{
+    text-align: center;
+    margin: 0 10px;
+}
+.product-cost{
+    margin-left:82px
+}
+.text-bold{
+    font-weight: bold;
+}
+.product-color{
+    margin-left:120px
+}
+.product-div{
+    border: 5px solid red;
+    width:25%;
+    text-align:left;
+    margin-left:0;
+    margin-right: 93px;
+    margin-top:10px;
+}
+
+.text-color{
+    color:#555;
+    
+}
+.flex-container{
+    display: flex;
+    flex-wrap:wrap;
+    text-align:center
+}
+.nav-bar{
+    background-color:brown;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position:fixed; top:0;
+    font-size: 30px;   
+}
+.footer-container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightgray;
+    font-size: 5px;
+    justify-content: center;
+   margin: 10px 10%;
+}
+.footer-item{
+    width: 30%;
+    padding: 0 10px;
+    font-size: 5px;
+}
+a{
+    margin: 0 10px;
+}
+.product-detail-container{
+    display: flex;
+}
+.product-detail-img{
+    width: 800px;
+    height: 500px;
+    margin-right: 200px;
+}
+.detail-display{
+    width: 30%;
+    padding:0 5%;
+}
+.text-center{
+    text-align: center;
+}
+.product-display{
+    margin-right: 20px;
+    width: 70%;
+}
+select{
+    width: 100px;
+    font-size: 15px;
+    border-radius: 5px solid;
+}
+.button{
+    width: 150px;
+    height: 50px;
+    background-color: burlywood;
+    border-radius: 7%;
+
+}
+.product-div a p:hover{
+    background-color: gray;
+    width: 50%;
+}
+.menu-a{
+    margin:0 10px
+}
