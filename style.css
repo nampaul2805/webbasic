@@ -45,17 +45,18 @@
     font-size: 30px;   
 }
 .footer-container{
-    display: flex;
-    flex-wrap: wrap;
-    background-color: lightgray;
+    background-color: white;
     font-size: 5px;
     justify-content: center;
-   margin: 10px 10%;
+   margin: 10px 5%;
+   text-align: left;
+  
+   
 }
 .footer-item{
-    width: 30%;
+    width: 100%;
     padding: 0 10px;
-    font-size: 5px;
+    font-size: 7px;
 }
 a{
     margin: 0 10px;
@@ -92,7 +93,7 @@ select{
 
 }
 .product-div a p:hover{
-    background-color: gray;
+    background-color: red;
     width: 50%;
     text-align: center;
     margin-left:95px ;
@@ -103,10 +104,14 @@ select{
 }
 .poster{
     top: 30px;
-    margin-left: 35px;
-    width: 1200px;
-    height: 700px;
+    margin-left: 0px;
+    width: 1500px;
+    height: 500px;
     text-align: center;
     margin-bottom: 0%;
-    margin-left: 150px;
+    margin-top: 70px;
+}
+.made-nam{
+    text-align: center;
+    background-color: lightgray;
 }
