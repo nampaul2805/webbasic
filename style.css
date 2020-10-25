@@ -7,6 +7,8 @@
 .product-name{
     text-align: center;
     margin: 0 10px;
+    text-decoration: none;
+    color:black
 }
 .product-cost{
     margin-left:135px;
@@ -120,5 +122,8 @@ select{
     color:black
 }
 .sp:hover{
+    text-decoration: underline;
+}
+.product-name:hover{
     text-decoration: underline;
 }
