@@ -127,3 +127,7 @@ select{
 .product-name:hover{
     text-decoration: underline;
 }
+.picture-container{
+    display: flex;
+    flex-wrap: wrap;
+}
