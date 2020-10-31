@@ -9,6 +9,7 @@
     margin: 0 10px;
     text-decoration: none;
     color:black
+
 }
 .product-cost{
     margin-left:135px;
@@ -26,6 +27,7 @@
     margin-left:85px;
     margin-right: 0px;
     margin-top:20px;
+ 
     
 }
 
@@ -95,10 +97,11 @@ select{
 
 }
 .product-div a p:hover{
-    background-color: red;
-    width: 50%;
     text-align: center;
-    margin-left:95px ;
+    margin: 0 10px;
+    text-decoration: none;
+    color:black;
+    background-color: red;
 
 }
 .menu-a{
@@ -123,11 +126,11 @@ select{
 }
 .sp:hover{
     text-decoration: underline;
-}
-.product-name:hover{
-    text-decoration: underline;
-}
+}   
 .picture-container{
     display: flex;
     flex-wrap: wrap;
+}
+background{
+    background-image: "url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbltD66kvWENRZXfPplrVQf7EH5oA4q8mecQ&usqp=CAU;')"
 }
